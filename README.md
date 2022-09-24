@@ -1,2 +1,2 @@
 # ArtCoders
-Proyecto Desarrollado pata el HackMty 2022
+Proyecto Desarrollado para el HackMty 2022
